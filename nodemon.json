@@ -2,7 +2,7 @@
     "ignore": ["node_modules"],
     "env": {
         "NODE_ENV": "development",
-        "PORT": 3000,
+        "PORT": 3000, 
         "CONFIRMATION": "7ffc12bc",
         "TOKEN": "be7f7e0ecd2b7f52b98bcbf632f63fa24524a58cb0f039e3150dea3689249fc2e1ab79809fff9eb2eb0ea"
         },
